@@ -1,0 +1,19 @@
+.even-numbers {
+    background-color: rgb(252, 158, 158);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#number3 {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: rgb(0, 206, 0);
+    font-size: 24px;
+    font-weight: bold;
+}
